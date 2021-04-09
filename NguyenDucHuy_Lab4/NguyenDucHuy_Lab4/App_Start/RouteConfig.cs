@@ -17,7 +17,7 @@ namespace NguyenDucHuy_Lab4
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
-            );//ád
+            );//2.0
         }
     }
 }
